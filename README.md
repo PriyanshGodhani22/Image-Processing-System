@@ -1,4 +1,4 @@
-# Image-Processing-System## Configuration
+# Image-Processing-System
 
 # Image Data Processing System
 
