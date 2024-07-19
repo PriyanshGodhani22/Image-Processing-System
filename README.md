@@ -33,7 +33,7 @@ This Node.js application processes image data from CSV files, validates the data
 1. **Clone the Repository**:
    ```sh
    git clone https://github.com/PriyanshGodhani22/Image-Processing-System.git
-   cd Image-Processing-System.git
+   cd Image-Processing-System
 2. **Install Dependecies**:
    ```sh
    npm i
